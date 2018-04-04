@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "667853397506",
+    "firebase_url": "https://blomo-blog.firebaseio.com",
+    "project_id": "blomo-blog",
+    "storage_bucket": "blomo-blog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667853397506:android:6002342e5b1b56f6",
+        "android_client_info": {
+          "package_name": "com.keepcalm.blomo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667853397506-g6hm90nfpr7q0ov7a530v7c4r9p2lsc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3gsmE8lGE8ajuTH44JZJ_gfrT5z_CmP4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
